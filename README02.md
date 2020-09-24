@@ -1,0 +1,1 @@
+Este es un archivo para probar la funcionalidad del protocolo git
